@@ -1,0 +1,11 @@
+﻿Create an application that will be used to monitor the number of manatees in a given waterway. A team of researcher files from 
+four to six times per month over a regional waterway and log sightings of manatees. The waterway is mapped into diffrenent viewing 
+locations. The researchers record the date, location, and a count of the number present at that location.
+
+Determine which day had the highest sightings at a given location. Print that date with the actual name of the month. Also include
+the count associated with the highest sighting. Plan your application so that the average number of sightings for a given location 
+can be determined.
+
+Design an object-oriented solution. Use two classes. For the manatee sighting class, characteristics such as location, date of 
+viewing, and count of manatees should be included. Methods to determine the average, date with the highest number of sightings, 
+and associated month name should be part of the class.
